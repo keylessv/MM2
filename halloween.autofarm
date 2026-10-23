@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxScriptsV2/Murder-mystery-2/refs/heads/main/halloween.autofarm"))()
